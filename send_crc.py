@@ -1,5 +1,5 @@
 		 
-# xor operation for the 2's complement 
+# xor operation for the 2's complement git commit 
 def xor(a, b): 
 
 	# initialize result 
