@@ -1,5 +1,5 @@
 		 
-
+# xor operation for the 2's complement 
 def xor(a, b): 
 
 	# initialize result 
